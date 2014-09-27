@@ -70,5 +70,5 @@ def get_tables(url):
 
 def main():
 	url = 'http://www.google.com'
-	get_images(url)
+	#get_images(url)
 
