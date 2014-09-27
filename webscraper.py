@@ -73,4 +73,3 @@ def main():
 	#get_images(url)
 
 #new line to check
-#lalalalalallalaa
